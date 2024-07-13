@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Werewolf Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        .article {
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to the World of Werewolves</h1>
+        </header>
+        
+        <section class="article">
+            <h2>About Werewolves</h2>
+            <p>Werewolves are mythical creatures that transform from human to wolf-like beings under the influence of the full moon.</p>
+            <!-- Add more information about werewolves here -->
+        </section>
+        
+        <section class="article">
+            <h2>Werewolf Legends</h2>
+            <p>Legends of werewolves date back centuries and are found in many cultures around the world.</p>
+            <!-- Add specific legends or stories about werewolves here -->
+        </section>
+        
+        <section class="article">
+            <h2>Werewolf Images</h2>
+            <p>Here are some images of werewolves:</p>
+            <img src="werewolf1.jpg" alt="Werewolf 1">
+            <img src="werewolf2.jpg" alt="Werewolf 2">
+            <!-- Add more images or a gallery if desired -->
+        </section>
+        
+        <footer>
+            <p>&copy; 2024 Your Werewolf Website</p>
+        </footer>
+    </div>
+</body>
+</html>
